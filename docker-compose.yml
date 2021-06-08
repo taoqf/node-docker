@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+  p000001:
+    image: taoqf/node
+    build:
+      context: .
+      dockerfile: ./Dockerfile

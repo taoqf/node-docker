@@ -1,0 +1,3 @@
+deb [arch=amd64] https://mirrors.huaweicloud.com/debian buster main
+deb [arch=amd64] https://mirrors.huaweicloud.com/debian buster-updates main
+deb [arch=amd64] https://mirrors.huaweicloud.com/debian-security buster/updates main
